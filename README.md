@@ -2,7 +2,7 @@
 # Artificial Intelligence — Final Project
 
 **Instructor:** Dr. Barshban
-**University of Guilan** — Academic year 1400, Semester 1 (Fall 2021)
+**University of Guilan** — Academic year (Fall 2021), Semester 1
 
 ---
 
