@@ -1,7 +1,7 @@
 # 4-in-line-game
 # Artificial Intelligence — Final Project
 
-**Instructor:** Dr. Barshban
+**Instructor:** Dr. Yasaman Boreshban
 **University of Guilan** — Academic year (Fall 2021), Semester 1
 
 ---
